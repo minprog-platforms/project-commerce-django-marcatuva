@@ -2,6 +2,10 @@
 
 This application will create an online auction system, consisting of the following pages:
 
+-Create Listing: Users should be able to visit a page to create a new listing. 
+They should be able to specify a title for the listing, a text-based description, and what the starting bid should be. \
+*Users should also optionally be able to provide a URL for an image for the listing and/or a category (e.g. Fashion, Toys, Electronics, Home, etc.).\
+![](sketches/create_listing_page.jpg) 
 -Active Listings Page: The default route of your web application should let users view all of the currently active auction listings.\
 *For each active listing, this page should display (at minimum) the title, description, current price, and photo (if one exists for the listing).\
 ![](sketches/active_listing_page.jpg) 	
